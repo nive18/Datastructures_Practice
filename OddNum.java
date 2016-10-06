@@ -2,8 +2,7 @@ import java.util.*;
 public class OddNum {
 public static void main(String args[])
 {
-	int i,k,l,n;
-	boolean flag=false;
+	int i,k,l;
     Scanner sc=new Scanner(System.in);
     
     k=sc.nextInt();
